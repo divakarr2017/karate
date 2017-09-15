@@ -6,5 +6,5 @@
 /wp-content/cache/
 /sitemap.*
 /wp-config.php
+/dbrecords
 .idea
-
