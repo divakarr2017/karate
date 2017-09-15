@@ -1,0 +1,5 @@
+[25-Apr-2017 11:12:20 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home/satishkumar/public_html/wp-content/themes/karate/hometemplate.php on line 166
+[25-Apr-2017 11:12:23 UTC] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home/satishkumar/public_html/wp-content/themes/karate/hometemplate.php on line 166
+[29-May-2017 07:42:20 UTC] PHP Fatal error:  Cannot redeclare exclude_category() (previously declared in /home/satishkumar/public_html/wp-content/themes/karate/functions.php:62) in /home/satishkumar/public_html/wp-content/themes/karate/functions.php on line 72
+[14-Sep-2017 11:44:36 UTC] PHP Parse error:  syntax error, unexpected 'LIMIT' (T_STRING) in /home/satishkumar/public_html/wp-content/plugins/widget-google-reviews/grw-reviews.php on line 8
+[14-Sep-2017 11:45:55 UTC] PHP Parse error:  syntax error, unexpected 'ORDER' (T_STRING) in /home/satishkumar/public_html/wp-content/plugins/widget-google-reviews/grw-reviews.php on line 8

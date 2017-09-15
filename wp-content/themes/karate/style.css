@@ -1,0 +1,28 @@
+/*
+ Theme Name:     karate
+ Theme URI:
+ Description:    A bare-bones child theme for use with Twenty Thirteen Theme. Pick matching colors quickly at <a href="http://www.html-color-names.com/">html-color-names.com</a>.
+ Author:
+ Author URI:
+ Template:       twentythirteen
+ Version:        1.0.0
+*/
+
+/* Add Custom CSS after this line */
+div.wpcf7-validation-errors {
+border: 2px solid red !important;
+    float: right;
+
+}
+div.wpcf7-mail-sent-ok {
+    border: 2px solid #398f14;
+    float: right;
+}
+.wp-gr .wp-google-text {
+    color: #fff!important;
+    font-size: 13px!important;
+    line-height: 18px!important;
+    max-width: 100%!important;
+    overflow: hidden!important;
+    white-space: pre-wrap!important;
+}
